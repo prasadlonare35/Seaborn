@@ -1,7 +1,7 @@
 # Seaborn Learning 📊
 
 This repository contains Python scripts that demonstrate basic to intermediate concepts of **Seaborn**, a powerful Python library for statistical data visualization.
-
+ 
 ## 📖 About Seaborn
 Seaborn is a data visualization library built on top of Matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics with ease, and integrates well with Pandas data structures.
 
